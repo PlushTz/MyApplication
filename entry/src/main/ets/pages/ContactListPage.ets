@@ -4,6 +4,8 @@
  * Created on 2024/3/15
  * Email: lijt@eetrust.com
  */
+import { PinYinUtil } from '../utils/PinYinUtil'
+
 @Preview
 @Component
 export struct ContactListPage {

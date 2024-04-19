@@ -5,6 +5,7 @@
  * Email: lijt@eetrust.com
  */
 import router from '@ohos.router'
+import { PinYinUtil } from '../utils/PinYinUtil'
 
 @Entry
 @Component
